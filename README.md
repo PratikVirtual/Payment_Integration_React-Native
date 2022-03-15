@@ -1,2 +1,2 @@
 # Payment_Integration_React-Native
-Payment Integration through Stripe
+Payment Integration using stripe
